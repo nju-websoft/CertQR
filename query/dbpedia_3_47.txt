@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis>
+<http://dbpedia.org/resource/Caroline_Kennedy>
+<http://dbpedia.org/resource/Lee_Harvey_Oswald>

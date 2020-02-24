@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fathers_and_Sons_(novel)>
+<http://dbpedia.org/resource/Anna_Karenina>
+<http://dbpedia.org/resource/Resurrection_(novel)>
+<http://dbpedia.org/resource/War_and_Peace>
+<http://dbpedia.org/resource/Crime_and_Punishment>

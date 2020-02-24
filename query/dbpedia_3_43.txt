@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Alain_Juppé>
+<http://dbpedia.org/resource/Bernadette_Chirac>
+<http://dbpedia.org/resource/Jacques_Chirac>

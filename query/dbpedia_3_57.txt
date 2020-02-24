@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Vitruvian_Man>
+<http://dbpedia.org/resource/Venus_de_Milo>
+<http://dbpedia.org/resource/The_Scream>

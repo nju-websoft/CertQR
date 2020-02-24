@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Johnny_Depp>
+<http://dbpedia.org/resource/Helena_Bonham_Carter>
+<http://dbpedia.org/resource/Michael_Keaton>
+<http://dbpedia.org/resource/Winona_Ryder>
+<http://dbpedia.org/resource/Tim_Burton>
+<http://dbpedia.org/resource/Danny_Elfman>

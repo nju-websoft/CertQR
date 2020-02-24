@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine>
+<http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences>

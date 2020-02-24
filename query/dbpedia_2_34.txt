@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Multi-Man_Publishing>
+<http://dbpedia.org/resource/Columbia_Games>

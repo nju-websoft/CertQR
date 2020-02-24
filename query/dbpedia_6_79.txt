@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Gertrude_Bell>
+<http://dbpedia.org/resource/Auda_ibu_Tayi>
+<http://dbpedia.org/resource/Omar_Sharif>
+<http://dbpedia.org/resource/D._H._Lawrence>
+<http://dbpedia.org/resource/T._E._Lawrence>
+<http://dbpedia.org/resource/David_Lean>

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Juliana_of_the_Netherlands>
+<http://dbpedia.org/resource/Beatrix_of_the_Netherlands>
+<http://dbpedia.org/resource/Willem-Alexander_of_the_Netherlands>
+<http://dbpedia.org/resource/Prince_Bernhard_of_Lippe-Biesterfeld>

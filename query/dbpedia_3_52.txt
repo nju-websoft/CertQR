@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Wassily_Kandinsky>
+<http://dbpedia.org/resource/Pablo_Picasso>
+<http://dbpedia.org/resource/Amedeo_Modigliani>

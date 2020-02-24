@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Thomas_Jefferson>
+<http://dbpedia.org/resource/Benjamin_Franklin>

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Erasmus_University_Rotterdam>
+<http://dbpedia.org/resource/VU_University_Amsterdam>

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Gertrude_Bell>
+<http://dbpedia.org/resource/Omar_Sharif>
+<http://dbpedia.org/resource/David_Lean>

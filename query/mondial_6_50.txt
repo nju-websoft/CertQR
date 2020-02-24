@@ -1,0 +1,6 @@
+http://www.semwebtech.org/mondial/10/country/AUS/
+http://www.semwebtech.org/mondial/10/country/AUS/province/NewSouthWales/city/Sydney/
+http://www.semwebtech.org/mondial/10/country/AUS/province/Victoria/city/Melbourne/
+http://www.semwebtech.org/mondial/10/country/AUS/province/NewSouthWales/
+http://www.semwebtech.org/mondial/10/country/USA/
+http://www.semwebtech.org/mondial/10/country/AUS/province/Queensland/city/Brisbane/

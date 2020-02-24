@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Aristotle>
+<http://dbpedia.org/resource/Pythagoras>
+<http://dbpedia.org/resource/Plato>
+<http://dbpedia.org/resource/Galileo_Galilei>

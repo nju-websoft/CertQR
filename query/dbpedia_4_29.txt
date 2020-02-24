@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/David_Furnish>
+<http://dbpedia.org/resource/Eric_Clapton>
+<http://dbpedia.org/resource/Paul_McCartney>
+<http://dbpedia.org/resource/Elton_John>

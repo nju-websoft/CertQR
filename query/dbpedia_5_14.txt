@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Patti_Scialfa>
+<http://dbpedia.org/resource/Billy_Joel>
+<http://dbpedia.org/resource/Bob_Dylan>
+<http://dbpedia.org/resource/Julianne_Phillips>
+<http://dbpedia.org/resource/Jessica_Springsteen>

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Pope_Benedict_XVI>
+<http://dbpedia.org/resource/Pope_Francis>

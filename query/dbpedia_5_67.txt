@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nawaz_Sharif>
+<http://dbpedia.org/resource/Muhammad_Zia-ul-Haq>
+<http://dbpedia.org/resource/Pervez_Musharraf>
+<http://dbpedia.org/resource/Asif_Ali_Zardari>
+<http://dbpedia.org/resource/Raheel_Sharif>

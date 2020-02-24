@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Alexis_Tsipras>
+<http://dbpedia.org/resource/Joachim_Sauer>
+<http://dbpedia.org/resource/Angela_Merkel>
+<http://dbpedia.org/resource/Barack_Obama>
+<http://dbpedia.org/resource/Vladimir_Putin>
+<http://dbpedia.org/resource/Wolfgang_Schäuble>

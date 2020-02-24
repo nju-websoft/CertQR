@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Ippo_Yamada>
+<http://dbpedia.org/resource/Capcom>
+<http://dbpedia.org/resource/Clover_Studio>

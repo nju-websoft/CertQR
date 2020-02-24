@@ -1,0 +1,9 @@
+Paper01,author,Alice
+Paper01,isAcceptedAt,WWW2018
+Paper02,author,Bob
+Paper02,author,Erin
+Paper02,author,Frank
+Paper02,isAcceptedAt,WWW2018
+Paper03,author,Carol
+Paper03,isAcceptedAt,WWW2018
+WWW2018,memberOfPC,Dan

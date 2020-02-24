@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Neil_Patrick_Harris>
+<http://dbpedia.org/resource/David_Burtka>
+<http://dbpedia.org/resource/Jason_Segel>
+<http://dbpedia.org/resource/Josh_Radnor>
+<http://dbpedia.org/resource/Alyson_Hannigan>
+<http://dbpedia.org/resource/Cobie_Smulders>

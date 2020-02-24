@@ -1,0 +1,5 @@
+http://www.semwebtech.org/mondial/10/continent/Asia/
+http://www.semwebtech.org/mondial/10/country/J/
+http://www.semwebtech.org/mondial/10/continent/Europe/
+http://www.semwebtech.org/mondial/10/country/IND/
+http://www.semwebtech.org/mondial/10/country/RI/

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Frank_Herbert>
+<http://dbpedia.org/resource/Kevin_J._Anderson>

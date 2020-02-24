@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/George_McFarland>
+<http://dbpedia.org/resource/Stan_Laurel>
+<http://dbpedia.org/resource/Harold_Lloyd>
+<http://dbpedia.org/resource/Oliver_Hardy>
+<http://dbpedia.org/resource/James_Finlayson_(actor)>

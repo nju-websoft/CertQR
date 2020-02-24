@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Thomas_Jefferson>
+<http://dbpedia.org/resource/Deborah_Read>
+<http://dbpedia.org/resource/George_Washington>
+<http://dbpedia.org/resource/John_Adams>
+<http://dbpedia.org/resource/Benjamin_Franklin>

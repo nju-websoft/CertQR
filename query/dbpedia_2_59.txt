@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Veronica_Porsche_Ali>
+<http://dbpedia.org/resource/Joe_Frazier>

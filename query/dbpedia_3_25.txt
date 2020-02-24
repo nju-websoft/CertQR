@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Brown_University>
+<http://dbpedia.org/resource/Princeton_University>
+<http://dbpedia.org/resource/Cornell_University>

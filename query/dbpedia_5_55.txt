@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Elvis_Presley>
+<http://dbpedia.org/resource/Joe_Jackson_(manager)>
+<http://dbpedia.org/resource/Michael_Jordan>
+<http://dbpedia.org/resource/Lisa_Marie_Presley>
+<http://dbpedia.org/resource/Michael_Jackson>

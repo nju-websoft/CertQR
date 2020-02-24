@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Cookie>
+<http://dbpedia.org/resource/Butter>
+<http://dbpedia.org/resource/Peanut_butter_and_jelly_sandwich>
+<http://dbpedia.org/resource/Peanut_butter>
+<http://dbpedia.org/resource/Peanut>
+<http://dbpedia.org/resource/Peanut_butter_cookie>

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gamay>
+<http://dbpedia.org/resource/Aligoté>
+<http://dbpedia.org/resource/Grolleau_(grape)>
+<http://dbpedia.org/resource/Melon_de_Bourgogne>
+<http://dbpedia.org/resource/Folle_blanche>

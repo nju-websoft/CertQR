@@ -1,0 +1,6 @@
+http://www.semwebtech.org/mondial/10/country/CZ/
+http://www.semwebtech.org/mondial/10/country/CZ/province/Praha/city/Praha/
+http://www.semwebtech.org/mondial/10/continent/Europe/
+http://www.semwebtech.org/mondial/10/country/H/
+http://www.semwebtech.org/mondial/10/politicalbody/Czechoslovakia/
+http://www.semwebtech.org/mondial/10/country/A/

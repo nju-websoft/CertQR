@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Gettysburg>
+<http://dbpedia.org/resource/Battle_of_Antietam>
+<http://dbpedia.org/resource/American_Civil_War>
+<http://dbpedia.org/resource/First_Battle_of_Bull_Run>
+<http://dbpedia.org/resource/Siege_of_Vicksburg>

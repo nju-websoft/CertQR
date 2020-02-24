@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Statue_of_Liberty>
+<http://dbpedia.org/resource/Central_Park>

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Martin_Scorsese>
+<http://dbpedia.org/resource/George_Lucas>
+<http://dbpedia.org/resource/Steven_Spielberg>
+<http://dbpedia.org/resource/Kate_Capshaw>

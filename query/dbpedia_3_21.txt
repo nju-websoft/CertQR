@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Fidel_Castro>
+<http://dbpedia.org/resource/Aleida_March>
+<http://dbpedia.org/resource/Aleida_Guevara>

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Advanced_Micro_Devices>
+<http://dbpedia.org/resource/Intel>
+<http://dbpedia.org/resource/Hewlett-Packard>
+<http://dbpedia.org/resource/Asus>

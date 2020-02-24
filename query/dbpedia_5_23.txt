@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Linda_Evangelista>
+<http://dbpedia.org/resource/Elle_Macpherson>
+<http://dbpedia.org/resource/Matthew_Vaughn>
+<http://dbpedia.org/resource/Claudia_Schiffer>
+<http://dbpedia.org/resource/Heidi_Klum>

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Denali>
+<http://dbpedia.org/resource/Kangchenjunga>
+<http://dbpedia.org/resource/K2>
+<http://dbpedia.org/resource/Mount_Kilimanjaro>

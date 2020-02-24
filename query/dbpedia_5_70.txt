@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Green_Day>
+<http://dbpedia.org/resource/Ramones>
+<http://dbpedia.org/resource/The_Clash>
+<http://dbpedia.org/resource/Sex_Pistols>
+<http://dbpedia.org/resource/The_Stooges>

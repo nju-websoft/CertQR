@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Red_wine>
+<http://dbpedia.org/resource/Sparkling_wine>
+<http://dbpedia.org/resource/Pinot_noir>
+<http://dbpedia.org/resource/White_wine>

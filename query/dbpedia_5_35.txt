@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/AOL>
+<http://dbpedia.org/resource/Apple_Inc.>
+<http://dbpedia.org/resource/Free_Mobile>
+<http://dbpedia.org/resource/PayPal>
+<http://dbpedia.org/resource/Yahoo!>

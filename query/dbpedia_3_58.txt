@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Denali>
+<http://dbpedia.org/resource/Kangchenjunga>
+<http://dbpedia.org/resource/Mount_Everest>

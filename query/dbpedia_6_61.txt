@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Mila_Kunis>
+<http://dbpedia.org/resource/Natalie_Portman>
+<http://dbpedia.org/resource/Benjamin_Millepied>
+<http://dbpedia.org/resource/Keira_Knightley>
+<http://dbpedia.org/resource/Hayden_Christensen>
+<http://dbpedia.org/resource/Scarlett_Johansson>

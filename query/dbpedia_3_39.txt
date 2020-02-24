@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Flea_(musician)>
+<http://dbpedia.org/resource/Hillel_Slovak>
+<http://dbpedia.org/resource/Anthony_Kiedis>

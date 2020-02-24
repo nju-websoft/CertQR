@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Kenny_Baker_(English_actor)>
+<http://dbpedia.org/resource/Mark_Hamill>

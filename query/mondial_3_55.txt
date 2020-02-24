@@ -1,0 +1,3 @@
+http://www.semwebtech.org/mondial/10/country/D/
+http://www.semwebtech.org/mondial/10/country/D/province/Berlin/city/Berlin/
+http://www.semwebtech.org/mondial/10/country/D/province/Bayern/city/München/

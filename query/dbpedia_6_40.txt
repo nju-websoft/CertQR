@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Intel>
+<http://dbpedia.org/resource/IBM>
+<http://dbpedia.org/resource/Hewlett-Packard>
+<http://dbpedia.org/resource/Accenture>
+<http://dbpedia.org/resource/Infosys>
+<http://dbpedia.org/resource/Lenovo>

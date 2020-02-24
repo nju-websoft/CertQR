@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Nicole_Kidman>
+<http://dbpedia.org/resource/Brad_Pitt>
+<http://dbpedia.org/resource/Tom_Cruise>

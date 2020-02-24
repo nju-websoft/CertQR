@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis>
+<http://dbpedia.org/resource/Patrick_Bouvier_Kennedy>

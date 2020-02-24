@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Intel>
+<http://dbpedia.org/resource/Accenture>
+<http://dbpedia.org/resource/Infosys>

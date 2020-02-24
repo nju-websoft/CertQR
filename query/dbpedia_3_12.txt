@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Manhattan_Bridge>
+<http://dbpedia.org/resource/Chinatown>
+<http://dbpedia.org/resource/Empire_State_Building>

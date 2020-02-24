@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Cindy_Crawford>
+<http://dbpedia.org/resource/Julia_Roberts>

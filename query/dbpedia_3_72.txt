@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Shannyn_Moore>
+<http://dbpedia.org/resource/Sarah_Palin>
+<http://dbpedia.org/resource/Sean_Parnell>

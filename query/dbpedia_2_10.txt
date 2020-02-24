@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Guinness>
+<http://dbpedia.org/resource/Lager>

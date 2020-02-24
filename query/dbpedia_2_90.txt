@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/George_Roy_Hill>
+<http://dbpedia.org/resource/Simon_West>

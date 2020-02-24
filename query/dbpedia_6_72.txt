@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Shannyn_Moore>
+<http://dbpedia.org/resource/Mark_Begich>
+<http://dbpedia.org/resource/Dan_Sullivan_(U.S._politician)>
+<http://dbpedia.org/resource/Byron_Mallott>
+<http://dbpedia.org/resource/Sarah_Palin>
+<http://dbpedia.org/resource/Sean_Parnell>

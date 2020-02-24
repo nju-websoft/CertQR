@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Alexis_Tsipras>
+<http://dbpedia.org/resource/Vladimir_Putin>

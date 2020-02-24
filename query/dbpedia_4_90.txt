@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/George_Roy_Hill>
+<http://dbpedia.org/resource/Simon_West>
+<http://dbpedia.org/resource/James_Goldman>
+<http://dbpedia.org/resource/Rob_Reiner>

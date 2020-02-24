@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/DeForest_Kelley>
+<http://dbpedia.org/resource/George_Takei>
+<http://dbpedia.org/resource/Melanie_Shatner>
+<http://dbpedia.org/resource/William_Shatner>
+<http://dbpedia.org/resource/Patrick_Stewart>

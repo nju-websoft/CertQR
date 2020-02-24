@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Nick_Traina>
+<http://dbpedia.org/resource/Nora_Roberts>
+<http://dbpedia.org/resource/Thomas_Perkins_(businessman)>

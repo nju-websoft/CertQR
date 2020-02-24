@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Neal_Cassady>
+<http://dbpedia.org/resource/Allen_Ginsberg>
+<http://dbpedia.org/resource/William_S._Burroughs>
+<http://dbpedia.org/resource/Charles_Bukowski>
+<http://dbpedia.org/resource/Jack_Kerouac>
+<http://dbpedia.org/resource/Jan_Kerouac>

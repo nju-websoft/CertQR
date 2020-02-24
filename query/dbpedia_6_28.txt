@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Daniel_Dennett>
+<http://dbpedia.org/resource/Kurt_Gödel>
+<http://dbpedia.org/resource/Robert_Hofstadter>
+<http://dbpedia.org/resource/M._C._Escher>
+<http://dbpedia.org/resource/Douglas_Hofstadter>
+<http://dbpedia.org/resource/Johann_Sebastian_Bach>

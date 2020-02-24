@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Lee_Marvin>
+<http://dbpedia.org/resource/Buzz_Kulik>
+<http://dbpedia.org/resource/Jack_Warden>
+<http://dbpedia.org/resource/Maria_Grazia_Buccella>

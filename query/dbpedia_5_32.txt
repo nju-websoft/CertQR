@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Frank_Herbert>
+<http://dbpedia.org/resource/Kevin_J._Anderson>
+<http://dbpedia.org/resource/Isaac_Asimov>
+<http://dbpedia.org/resource/Robert_A._Heinlein>
+<http://dbpedia.org/resource/Brian_Herbert>

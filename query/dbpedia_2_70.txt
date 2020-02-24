@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Green_Day>
+<http://dbpedia.org/resource/Misfits_(band)>

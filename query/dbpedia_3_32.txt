@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Frank_Herbert>
+<http://dbpedia.org/resource/Isaac_Asimov>
+<http://dbpedia.org/resource/David_Lynch>

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Shannyn_Moore>
+<http://dbpedia.org/resource/Dan_Sullivan_(U.S._politician)>

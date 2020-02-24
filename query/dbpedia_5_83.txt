@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nicole_Kidman>
+<http://dbpedia.org/resource/Katie_Holmes>
+<http://dbpedia.org/resource/Brad_Pitt>
+<http://dbpedia.org/resource/Tom_Hanks>
+<http://dbpedia.org/resource/Mimi_Rogers>

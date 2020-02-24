@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Makalu>
+<http://dbpedia.org/resource/Broad_Peak>
+<http://dbpedia.org/resource/K2>
+<http://dbpedia.org/resource/Cho_Oyu>

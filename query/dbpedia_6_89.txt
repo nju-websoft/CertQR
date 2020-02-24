@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/John_Steinbeck>
+<http://dbpedia.org/resource/James_Joyce>
+<http://dbpedia.org/resource/Ernest_Hemingway>
+<http://dbpedia.org/resource/Mark_Twain>
+<http://dbpedia.org/resource/William_Faulkner>
+<http://dbpedia.org/resource/F._Scott_Fitzgerald>

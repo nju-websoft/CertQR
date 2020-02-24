@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Dell_Publishing>
+<http://dbpedia.org/resource/Penguin_Books>
+<http://dbpedia.org/resource/Random_House>
+<http://dbpedia.org/resource/Viking_Press>
+<http://dbpedia.org/resource/Penguin_Group>
+<http://dbpedia.org/resource/Little>

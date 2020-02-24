@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Gamay>
+<http://dbpedia.org/resource/Melon_de_Bourgogne>

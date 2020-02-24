@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Henry_Fonda>
+<http://dbpedia.org/resource/Roger_Vadim>
+<http://dbpedia.org/resource/Troy_Garity>
+<http://dbpedia.org/resource/Ted_Turner>
+<http://dbpedia.org/resource/Lily_Tomlin>
+<http://dbpedia.org/resource/Jane_Fonda>

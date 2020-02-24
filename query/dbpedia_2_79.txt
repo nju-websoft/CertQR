@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Gertrude_Bell>
+<http://dbpedia.org/resource/Auda_ibu_Tayi>

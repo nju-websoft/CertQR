@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Advanced_Micro_Devices>
+<http://dbpedia.org/resource/Intel>
+<http://dbpedia.org/resource/IBM>
+<http://dbpedia.org/resource/Nvidia>
+<http://dbpedia.org/resource/Asus>
+<http://dbpedia.org/resource/Lenovo>

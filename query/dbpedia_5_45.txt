@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ludwig_van_Beethoven>
+<http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart>
+<http://dbpedia.org/resource/George_Frideric_Handel>
+<http://dbpedia.org/resource/Antonio_Vivaldi>
+<http://dbpedia.org/resource/Johann_Sebastian_Bach>

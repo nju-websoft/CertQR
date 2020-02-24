@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Queensboro_Bridge>
+<http://dbpedia.org/resource/Williamsburg_Bridge>

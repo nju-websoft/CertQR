@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Multi-Man_Publishing>
+<http://dbpedia.org/resource/Fantasy_Flight_Games>
+<http://dbpedia.org/resource/GMT_Games>
+<http://dbpedia.org/resource/Z-Man_Games>
+<http://dbpedia.org/resource/Avalon_Hill>
+<http://dbpedia.org/resource/Decision_Games>

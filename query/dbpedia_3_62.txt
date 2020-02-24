@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Neil_Patrick_Harris>
+<http://dbpedia.org/resource/David_Burtka>
+<http://dbpedia.org/resource/Alyson_Hannigan>

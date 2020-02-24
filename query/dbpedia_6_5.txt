@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Brian_Viglione>
+<http://dbpedia.org/resource/Ben_Folds>
+<http://dbpedia.org/resource/Jason_Webley>
+<http://dbpedia.org/resource/Morrissey>
+<http://dbpedia.org/resource/Zoë_Keating>
+<http://dbpedia.org/resource/Amanda_Palmer>

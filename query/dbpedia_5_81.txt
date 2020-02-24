@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/NYPD_Blue>
+<http://dbpedia.org/resource/The_Wire>
+<http://dbpedia.org/resource/Boardwalk_Empire>
+<http://dbpedia.org/resource/The_Sopranos>
+<http://dbpedia.org/resource/Brotherhood_(U.S._TV_series)>

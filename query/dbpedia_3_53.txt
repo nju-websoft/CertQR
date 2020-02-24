@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Denis_Thatcher>
+<http://dbpedia.org/resource/Mark_Thatcher>
+<http://dbpedia.org/resource/Ronald_Reagan>

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Nicole_Kidman>
+<http://dbpedia.org/resource/Mimi_Rogers>

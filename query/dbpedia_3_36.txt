@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/George_McFarland>
+<http://dbpedia.org/resource/Stan_Laurel>
+<http://dbpedia.org/resource/Hal_Roach>

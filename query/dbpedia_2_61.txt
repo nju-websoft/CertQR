@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Mila_Kunis>
+<http://dbpedia.org/resource/Scarlett_Johansson>

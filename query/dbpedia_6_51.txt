@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Queensboro_Bridge>
+<http://dbpedia.org/resource/Verrazano–Narrows_Bridge>
+<http://dbpedia.org/resource/Manhattan_Bridge>
+<http://dbpedia.org/resource/Williamsburg_Bridge>
+<http://dbpedia.org/resource/Brooklyn_Bridge>
+<http://dbpedia.org/resource/Triborough_Bridge>

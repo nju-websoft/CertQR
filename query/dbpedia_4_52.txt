@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Wassily_Kandinsky>
+<http://dbpedia.org/resource/Henri_Matisse>
+<http://dbpedia.org/resource/Marc_Chagall>
+<http://dbpedia.org/resource/Amedeo_Modigliani>

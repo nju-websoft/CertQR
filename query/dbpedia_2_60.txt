@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Makalu>
+<http://dbpedia.org/resource/Nanga_Parbat>

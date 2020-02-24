@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine>
+<http://dbpedia.org/resource/Nobel_Prize_in_Chemistry>
+<http://dbpedia.org/resource/Nobel_Prize_in_Literature>
+<http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences>
+<http://dbpedia.org/resource/Nobel_Prize_in_Physics>
+<http://dbpedia.org/resource/Nobel_Peace_Prize>

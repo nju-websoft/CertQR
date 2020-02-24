@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Makalu>
+<http://dbpedia.org/resource/Nanga_Parbat>
+<http://dbpedia.org/resource/Manaslu>
+<http://dbpedia.org/resource/Cho_Oyu>
+<http://dbpedia.org/resource/Gasherbrum_I>

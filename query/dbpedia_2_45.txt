@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Ludwig_van_Beethoven>
+<http://dbpedia.org/resource/George_Frideric_Handel>

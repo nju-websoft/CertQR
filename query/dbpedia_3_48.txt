@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Sandra_Bullock>
+<http://dbpedia.org/resource/Richard_Gere>
+<http://dbpedia.org/resource/Lyle_Lovett>

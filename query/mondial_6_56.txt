@@ -1,0 +1,6 @@
+http://www.semwebtech.org/mondial/10/river/Nile/
+http://www.semwebtech.org/mondial/10/continent/Africa/
+http://www.semwebtech.org/mondial/10/river/Amazonas/
+http://www.semwebtech.org/mondial/10/country/ET/city/Aswan/
+http://www.semwebtech.org/mondial/10/sea/RedSea/
+http://www.semwebtech.org/mondial/10/country/ET/city/AlJizah/

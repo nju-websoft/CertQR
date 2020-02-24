@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Edgar_Allan_Poe>
+<http://dbpedia.org/resource/Mark_Twain>
+<http://dbpedia.org/resource/William_Shakespeare>
+<http://dbpedia.org/resource/Charles_Dickens>

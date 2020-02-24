@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wu-Tang_Clan>
+<http://dbpedia.org/resource/Redman_(rapper)>
+<http://dbpedia.org/resource/Mobb_Deep>
+<http://dbpedia.org/resource/Nas>
+<http://dbpedia.org/resource/The_Notorious_B.I.G.>

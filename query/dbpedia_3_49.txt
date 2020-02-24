@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Juliana_of_the_Netherlands>
+<http://dbpedia.org/resource/Willem-Alexander_of_the_Netherlands>
+<http://dbpedia.org/resource/Wilhelmina_of_the_Netherlands>

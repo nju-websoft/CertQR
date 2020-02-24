@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Vitruvian_Man>
+<http://dbpedia.org/resource/Lady_with_an_Ermine>
+<http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)>
+<http://dbpedia.org/resource/Venus_de_Milo>
+<http://dbpedia.org/resource/The_Scream>

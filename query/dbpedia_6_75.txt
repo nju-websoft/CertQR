@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Red_wine>
+<http://dbpedia.org/resource/Sparkling_wine>
+<http://dbpedia.org/resource/Wine>
+<http://dbpedia.org/resource/Chardonnay>
+<http://dbpedia.org/resource/Rosé>
+<http://dbpedia.org/resource/White_wine>

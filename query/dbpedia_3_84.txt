@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Harvard_University>
+<http://dbpedia.org/resource/Stanford_University>
+<http://dbpedia.org/resource/University_of_Oxford>

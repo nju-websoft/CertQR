@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Flea_(musician)>
+<http://dbpedia.org/resource/Hillel_Slovak>
+<http://dbpedia.org/resource/Jack_Irons>
+<http://dbpedia.org/resource/John_Frusciante>
+<http://dbpedia.org/resource/Jack_Sherman_(guitarist)>

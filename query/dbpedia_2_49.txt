@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Juliana_of_the_Netherlands>
+<http://dbpedia.org/resource/Prince_Claus_of_the_Netherlands>

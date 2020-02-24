@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Dell_Publishing>
+<http://dbpedia.org/resource/Penguin_Books>

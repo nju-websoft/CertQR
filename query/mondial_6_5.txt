@@ -1,0 +1,6 @@
+http://www.semwebtech.org/mondial/10/country/BD/
+http://www.semwebtech.org/mondial/10/country/BD/province/Dhaka/city/Dhaka/
+http://www.semwebtech.org/mondial/10/country/PK/
+http://www.semwebtech.org/mondial/10/continent/Asia/
+http://www.semwebtech.org/mondial/10/country/IND/province/WestBengal/city/Kolkata/
+http://www.semwebtech.org/mondial/10/country/NEP/

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Linda_Evangelista>
+<http://dbpedia.org/resource/Christy_Turlington>
+<http://dbpedia.org/resource/Claudia_Schiffer>
+<http://dbpedia.org/resource/Heidi_Klum>

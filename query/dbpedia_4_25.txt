@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Brown_University>
+<http://dbpedia.org/resource/Stanford_University>
+<http://dbpedia.org/resource/Columbia_University>
+<http://dbpedia.org/resource/Princeton_University>

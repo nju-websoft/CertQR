@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Cheesecake>
+<http://dbpedia.org/resource/Icing_(food)>
+<http://dbpedia.org/resource/Cream_cheese>

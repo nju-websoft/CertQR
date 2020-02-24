@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Shannyn_Moore>
+<http://dbpedia.org/resource/Mark_Begich>
+<http://dbpedia.org/resource/Byron_Mallott>
+<http://dbpedia.org/resource/Sarah_Palin>

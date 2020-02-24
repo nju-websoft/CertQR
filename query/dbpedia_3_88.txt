@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Fathers_and_Sons_(novel)>
+<http://dbpedia.org/resource/The_Brothers_Karamazov>
+<http://dbpedia.org/resource/Crime_and_Punishment>

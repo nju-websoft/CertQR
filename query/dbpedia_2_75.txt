@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Red_wine>
+<http://dbpedia.org/resource/Rosé>

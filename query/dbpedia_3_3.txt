@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Air_Canada>
+<http://dbpedia.org/resource/China_Eastern_Airlines>
+<http://dbpedia.org/resource/Air_China>

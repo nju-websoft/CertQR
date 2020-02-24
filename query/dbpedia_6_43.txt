@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Alain_Juppé>
+<http://dbpedia.org/resource/François_Hollande>
+<http://dbpedia.org/resource/François_Mitterrand>
+<http://dbpedia.org/resource/Bernadette_Chirac>
+<http://dbpedia.org/resource/Jacques_Chirac>
+<http://dbpedia.org/resource/Nicolas_Sarkozy>

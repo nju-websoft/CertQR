@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Statue_of_Liberty>
+<http://dbpedia.org/resource/Rockefeller_Center>
+<http://dbpedia.org/resource/Ellis_Island>
+<http://dbpedia.org/resource/Central_Park>
+<http://dbpedia.org/resource/Empire_State_Building>
+<http://dbpedia.org/resource/Eiffel_Tower>

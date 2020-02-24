@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Marlon_Brando>
+<http://dbpedia.org/resource/Talia_Shire>
+<http://dbpedia.org/resource/Martin_Scorsese>
+<http://dbpedia.org/resource/Al_Pacino>
+<http://dbpedia.org/resource/Francis_Ford_Coppola>
+<http://dbpedia.org/resource/Sofia_Coppola>

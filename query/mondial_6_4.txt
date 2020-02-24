@@ -1,0 +1,6 @@
+http://www.semwebtech.org/mondial/10/country/CN/
+http://www.semwebtech.org/mondial/10/country/R/
+http://www.semwebtech.org/mondial/10/country/CN/province/Beijing/city/Beijing/
+http://www.semwebtech.org/mondial/10/country/USA/
+http://www.semwebtech.org/mondial/10/country/CN/province/Shanghai/city/Shanghai/
+http://www.semwebtech.org/mondial/10/country/IND/

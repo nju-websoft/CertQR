@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Alison_Eastwood>
+<http://dbpedia.org/resource/Kyle_Eastwood>
+<http://dbpedia.org/resource/Francesca_Eastwood>
+<http://dbpedia.org/resource/Dina_Eastwood>

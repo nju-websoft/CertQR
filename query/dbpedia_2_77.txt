@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Mark_Zuckerberg>
+<http://dbpedia.org/resource/Steve_Jobs>

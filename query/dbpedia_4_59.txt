@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Veronica_Porsche_Ali>
+<http://dbpedia.org/resource/Joe_Frazier>
+<http://dbpedia.org/resource/Muhammad_Ali>
+<http://dbpedia.org/resource/Mike_Tyson>

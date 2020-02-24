@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Gamay>
+<http://dbpedia.org/resource/Aligoté>
+<http://dbpedia.org/resource/Chenin_blanc>
+<http://dbpedia.org/resource/Folle_blanche>

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Priscilla_Presley>
+<http://dbpedia.org/resource/Elvis_Presley>
+<http://dbpedia.org/resource/Marilyn_Monroe>
+<http://dbpedia.org/resource/Lisa_Marie_Presley>
+<http://dbpedia.org/resource/Johnny_Cash>
+<http://dbpedia.org/resource/Michael_Jackson>

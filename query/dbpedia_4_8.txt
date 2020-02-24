@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Capital_One>
+<http://dbpedia.org/resource/American_Express>
+<http://dbpedia.org/resource/Wells_Fargo>
+<http://dbpedia.org/resource/Bank_of_America>

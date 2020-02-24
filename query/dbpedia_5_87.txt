@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Erasmus_University_Rotterdam>
+<http://dbpedia.org/resource/VU_University_Medical_Center>
+<http://dbpedia.org/resource/VU_University_Amsterdam>
+<http://dbpedia.org/resource/Leiden_University>
+<http://dbpedia.org/resource/University_of_Amsterdam>

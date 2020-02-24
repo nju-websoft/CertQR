@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Linda_Lee_Cadwell>
+<http://dbpedia.org/resource/Brandon_Lee>
+<http://dbpedia.org/resource/Jet_Li>
+<http://dbpedia.org/resource/Jackie_Chan>

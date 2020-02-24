@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Suez_Crisis>
+<http://dbpedia.org/resource/Korean_War>
+<http://dbpedia.org/resource/Bay_of_Pigs_Invasion>

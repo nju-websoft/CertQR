@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Linda_Evangelista>
+<http://dbpedia.org/resource/Matthew_Vaughn>
+<http://dbpedia.org/resource/Heidi_Klum>

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Denis_Thatcher>
+<http://dbpedia.org/resource/Mark_Thatcher>
+<http://dbpedia.org/resource/Tony_Blair>
+<http://dbpedia.org/resource/Carol_Thatcher>
+<http://dbpedia.org/resource/Ronald_Reagan>
+<http://dbpedia.org/resource/Margaret_Thatcher>

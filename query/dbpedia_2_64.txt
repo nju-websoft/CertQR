@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Orange_soft_drink>
+<http://dbpedia.org/resource/Iced_tea>
