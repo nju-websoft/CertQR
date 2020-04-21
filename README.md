@@ -4,7 +4,7 @@ CertQR is a toolkit to find a maximum successful sub-query for semantic associat
 /certqr/lib contains the libraries that the code is dependent on.<br>
 /certqr/example contains an example entity-relation graph.<br>
 /certqr/example/ExampleTriples is the source data of the example.<br>
-/certqr/certqr.jar is the runnable jar file. To run the example correctly, you have to put the example folder and meast-qr.jar in the same directory. <br>
+/certqr/certqr.jar is the runnable jar file. To run the example correctly, you have to put the example folder and certqr.jar in the same directory. <br>
 
 To get a result of query relaxation, you may wish to run 'java -jar certqr.jar'
 
